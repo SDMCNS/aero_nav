@@ -1,0 +1,146 @@
+[
+  {
+    "name": "BALDONNEL DVOR/DME",
+    "id": "BAL",
+    "frequency_or_channel": "115.8MHz CH 105X",
+    "hours_of_operation": "H24",
+    "coordinates": "531759.6N 0062652.0W",
+    "elevation_dme_antenna": "300ft",
+    "remarks": "(3°W 2019) (decl.:3°W). BAL DVOR unusable in sector R150 to R170 below 5500ft AMSL outside 20NM due to terrain. Aircrew may observe BAL DME unlocks in sectors R150 to R175 and R195 to R205 below 4,500ft and outside 20NM due to terrain."
+  },
+  {
+    "name": "CLONMEL NDB",
+    "id": "CML",
+    "frequency_or_channel": "387kHz",
+    "hours_of_operation": "H24",
+    "coordinates": "522713.5N 0072848.2W",
+    "elevation_dme_antenna": null,
+    "remarks": "Range 50NM"
+  },
+  {
+    "name": "CONNAUGHT DVOR/DME",
+    "id": "CON",
+    "frequency_or_channel": "117.4MHz CH 121X",
+    "hours_of_operation": "H24",
+    "coordinates": "535428.9N 0084912.4W",
+    "elevation_dme_antenna": "600ft",
+    "remarks": "(3°W 2022) (decl.:3°W). 100/500, 300/700 (180° T-360° T) with purpose A,T,E"
+  },
+  {
+    "name": "CORK DVOR/DME",
+    "id": "CRK",
+    "frequency_or_channel": "114.6MHz CH 93X",
+    "hours_of_operation": "H24",
+    "coordinates": "515026.2N 0082939.4W",
+    "elevation_dme_antenna": "500ft",
+    "remarks": "(2°W 2023) (decl.:2°W). 100/500, 300/700 (180° T-360° T) with purpose A,T,E"
+  },
+  {
+    "name": "DONEGAL NDB",
+    "id": "CFN",
+    "frequency_or_channel": "361kHz",
+    "hours_of_operation": "H24",
+    "coordinates": "550238.4N 0082021.4W",
+    "elevation_dme_antenna": null,
+    "remarks": "DOC 25NM"
+  },
+  {
+    "name": "COLLINSTOWN DVOR/DME",
+    "id": "DAP",
+    "frequency_or_channel": "111.20MHz CH 49X",
+    "hours_of_operation": "H24",
+    "coordinates": "532525.2N 0061810.3W",
+    "elevation_dme_antenna": "300ft",
+    "remarks": "(2°W (2021) (decl.:2°W). DOC 150"
+  },
+  {
+    "name": "DUBLIN DVOR/DME",
+    "id": "DUB",
+    "frequency_or_channel": "114.9MHz CH 96X",
+    "hours_of_operation": "H24",
+    "coordinates": "532957.8N 0061825.6W",
+    "elevation_dme_antenna": "200ft",
+    "remarks": "(2°W (2021) (decl.:2°W). 100/500, 300/700 (180° T-360° T) with purpose A,T,E"
+  },
+  {
+    "name": "GLENTEIGE DME",
+    "id": "GTG",
+    "frequency_or_channel": "114.15MHz CH 88Y",
+    "hours_of_operation": "H24",
+    "coordinates": "525111.1N 0060843.9W",
+    "elevation_dme_antenna": "1000ft",
+    "remarks": "E,T\nDOC 100NM except in Southwest sector max usable range at FL075 and below is 63NM"
+  },
+  {
+    "name": "GORMANSTON NDB",
+    "id": "GMN",
+    "frequency_or_channel": "334kHz",
+    "hours_of_operation": "H24",
+    "coordinates": "533853.2N 0061336.0W",
+    "elevation_dme_antenna": null,
+    "remarks": "DOC 30NM. Operating Authority Minister for Defence"
+  },
+  {
+    "name": "GORMANSTON DME",
+    "id": "GMN",
+    "frequency_or_channel": "112.9MHz CH 76X",
+    "hours_of_operation": "H24",
+    "coordinates": "533848.5N 0061405.7W",
+    "elevation_dme_antenna": "100ft",
+    "remarks": "DOC 30NM. Operating Authority Minister for Defence"
+  },
+  {
+    "name": "KERRY NDB",
+    "id": "KER",
+    "frequency_or_channel": "334kHz",
+    "hours_of_operation": "H24",
+    "coordinates": "521055.8N 0093128.2W",
+    "elevation_dme_antenna": null,
+    "remarks": "DOC 25NM"
+  },
+  {
+    "name": "KILLINEY NDB",
+    "id": "KLY",
+    "frequency_or_channel": "378kHz",
+    "hours_of_operation": "H24",
+    "coordinates": "531610.4N 0060623.2W",
+    "elevation_dme_antenna": null,
+    "remarks": "DOC 50NM Aircraft may not obtain guidance beyond 45NM below 8000ft, in the sector between bearings 180° and 270° M."
+  },
+  {
+    "name": "MOHERCROM DME",
+    "id": "MCM",
+    "frequency_or_channel": "114.4MHz CH 91X",
+    "hours_of_operation": "H24",
+    "coordinates": "535437.2N 0065404.6W",
+    "elevation_dme_antenna": "1100ft",
+    "remarks": "E,T \nDOC 100NM"
+  },
+  {
+    "name": "SHANNON DVOR/DME",
+    "id": "SHA",
+    "frequency_or_channel": "113.3MHz CH 80X",
+    "hours_of_operation": "H24",
+    "coordinates": "524315.6N 0085306.8W",
+    "elevation_dme_antenna": "200ft",
+    "remarks": "(3°W (2023) (decl.:3°W). 100/500, 300/700 (180° T-360° T) with purpose A,T,E"
+  },
+  {
+    "name": "WATERFORD NDB",
+    "id": "WTD",
+    "frequency_or_channel": "368kHz",
+    "hours_of_operation": "H24",
+    "coordinates": "521120.4N 0070500.0W",
+    "elevation_dme_antenna": null,
+    "remarks": "DOC 25NM"
+  },
+  {
+    "name": "WOLFTRAP DME",
+    "id": "WTP",
+    "frequency_or_channel": "116.3MHz CH 110X",
+    "hours_of_operation": "H24",
+    "coordinates": "530545.2N 0073528.6W",
+    "elevation_dme_antenna": "1700ft",
+    "remarks": "E,T\nDOC 100NM"
+  }
+]

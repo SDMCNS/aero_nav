@@ -1,0 +1,65 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "navaid-sim"
+version = "3.0.0"
+description = "High-Fidelity Aeronautical Navigation Aid (VOR, DME, NDB, ILS, GNSS) and Cockpit Avionics Simulation Library conforming to ICAO Annex 10 & ARINC 429 standards."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [
+    { name = "Aviation Avionics Engineering Team" }
+]
+keywords = [
+    "aviation",
+    "avionics",
+    "navaid",
+    "vor",
+    "dme",
+    "ndb",
+    "ils",
+    "gnss",
+    "arinc429",
+    "nmea0183",
+    "flight-simulation",
+    "icao",
+    "shannon-fir"
+]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Interface Engine/Protocol Translator",
+    "Topic :: Scientific/Engineering :: Physics",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Programming Language :: Python :: 3.14",
+    "License :: OSI Approved :: MIT License",
+]
+dependencies = [
+    "fastapi>=0.100.0",
+    "uvicorn>=0.20.0",
+    "websockets>=11.0",
+    "pydantic>=2.0",
+]
+
+[project.optional-dependencies]
+test = [
+    "unittest",
+]
+
+[project.scripts]
+navaid-sim = "navaid_sim.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["navaid_sim*"]
+
+[tool.setuptools.package-data]
+"navaid_sim" = ["data/*"]
+
